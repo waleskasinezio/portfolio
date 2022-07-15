@@ -1,0 +1,29 @@
+h1 {
+    color: #44CF6C;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    color: #A9FDAC;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: #F1FFE7;
+}
+
+strong {
+    color: #32A287;
+}
+
+.list-style {
+    font-size:20px;
+}
+
+.list-style-2 {
+    font-size: 25px;
+}
+
+div{
+    border: 2px solid red;
+}
